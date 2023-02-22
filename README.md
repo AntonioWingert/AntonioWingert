@@ -4,7 +4,7 @@ Hey!<br>My name is Antonio Bruno Wingert!<br>I'm 24 years old.<br>I'm a full sta
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniobrunowingert/) 
+<a href="https://www.linkedin.com/in/antoniobrunowingert/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "antoniobwingert@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 # 💻 Tech Stack:

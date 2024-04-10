@@ -29,7 +29,7 @@
 
 ###
 
-<h4 align="left">Hello! 👋<br><br>My name is Antonio Bruno Wingert, I'm 24 years old, and I'm a full-stack developer! 💻 Currently, I am a teaching summer intern at Trybe, but I'm still in pursuit of my position as a developer! 🚀<br><br>I'm a big fan of games and anime. 🎮🎬 In my free time, I'm always available to play some League of Legends... I mean, study a little bit! 😄<br><br>If you're interested, you can find the link to my social media profiles in the social section. 🌐 Rest assured, I will love to hear from you and engage in conversation! 📲<br><br>I hope you find something valuable in my profile, and we can connect soon! ✨</h4>
+<h4 align="left">Hello! 👋<br><br>My name is Antonio Bruno Wingert, I'm 25 years old, and I'm a full-stack developer! 💻 Currently, I am a teaching summer intern at Trybe, but I'm still in pursuit of my position as a developer! 🚀<br><br>I'm a big fan of games and anime. 🎮🎬 In my free time, I'm always available to play some League of Legends... I mean, study a little bit! 😄<br><br>If you're interested, you can find the link to my social media profiles in the social section. 🌐 Rest assured, I will love to hear from you and engage in conversation! 📲<br><br>I hope you find something valuable in my profile, and we can connect soon! ✨</h4>
 
 ###
 
